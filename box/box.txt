@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tecst Pytya blablalbla
+=======
+Tecst Vasya blablalbla
+>>>>>>> conflict_B
